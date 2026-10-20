@@ -31,7 +31,7 @@ else:
     print("Resultado: coincide")
 ```
 
-IA: Si, para refrescar memoria con Python ya que se me habian ido algunos detalles del curso anterior.
+IA: Si, para refrescar memoria con Python ya que se me habian olvidado algunos detalles dados en el curso anterior.
 
 ## Comprobacion
 He probado los casos coinciden, sobran y faltan pinzas.
