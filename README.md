@@ -31,4 +31,4 @@ else:\
 IA: Si, para refrescar memoria con Python ya que se me habian ido algunos detalles del curso anterior.\
 \
 ## Comprobacion\
-He probado los casos coinciden, sobran y faltan pinzas.\
+He probado los casos coinciden, sobran y faltan pinzas.
