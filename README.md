@@ -36,4 +36,4 @@ IA: Si, para refrescar memoria con Python ya que se me habian ido algunos detall
 
 
 ## Comprobacion
-He probado los casos: coinciden las pinzas.
+He probado los casos coinciden, sobran y faltan pinzas.
