@@ -6,7 +6,8 @@ MatIA: recuento de pinzas con datos sinteticos.\
 \
 Ejecucion:\
 
-#(cabe recalcar que al principio use un codigo distinto, hecho por mi y totalmente funcional, pero completando el trabajo en las anteriores clases lo cambie por el que se nos dio en clase debido a una confusion mia)
+#(cabe recalcar que al principio use un codigo distinto, hecho por mi y totalmente funcional, pero completando el trabajo en las anteriores clases lo cambie por el que se nos dio en clase debido a una confusion mia)\
+
 ```
 #Creo unos datos con instrumentos medicos
 instrumentos = ["pinza", "tijera", "pinza"]
